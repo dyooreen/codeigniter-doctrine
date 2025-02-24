@@ -24,7 +24,7 @@ Install this project with Composer:
 
 ~~~
 $ cd /path/to/codeigniter/
-$ composer require kenjis/codeigniter-doctrine:1.0.x@dev
+$ composer require dyooreen/codeigniter-doctrine:1.0.x@dev
 ~~~
 
 ## Usage
